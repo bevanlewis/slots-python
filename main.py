@@ -1,3 +1,6 @@
+# Todo: Code needs to be converted in order to follow OOP.
+# Todo: Create a Player and SlotMachine class
+
 import random
 
 slot_machine = [["*", "*", "*"],
