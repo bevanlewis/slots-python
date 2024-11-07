@@ -39,7 +39,6 @@ def spin_machine():
     slot_machine[0] = get_row()
     slot_machine[1] = get_row()
     slot_machine[2] = get_row()
-    print(slot_machine)
 
 
 def show_win_conditions():
